@@ -2,7 +2,7 @@
 
 document.getElementById('pledge-button').addEventListener('click', function () {
   const message = document.getElementById('response-message');
-  message.textContent = "The Force is strong in this one. Reels will be watched. 💫";
+  message.textContent = "Shit happens. Reels will be watched. 💫";
 
   // Add some temporary confetti effect (simple emoji sprinkle)
   const confetti = document.createElement('div');
